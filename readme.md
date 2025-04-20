@@ -1,6 +1,5 @@
 # tecno smart
- <img src="asset/logo.bmp" width="100">
- 
+
 ## programing & seulution services
 **Response time messurent App**
 # How to use app
@@ -38,5 +37,5 @@
 
 ******
  [tell:+2 010 9397 8618]()
- [tell:+2 012 0278 6234]()
+ [whats app:+2 012 0278 6234]()
 
